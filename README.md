@@ -21,6 +21,5 @@ Il a été développé dans un but **pédagogique**, afin de pratiquer la progra
 
 ## ▶️ Comment lancer le projet
 1. Télécharger et installer **Processing 4** :  
-Le dossier pour télécharger **Processing 4** nécessaire pour exécuter le projet est inclus directement dans le dossier **Pac-Man** de ce dépôt GitHub.
 2. Ouvrir le fichier `.pde` avec Processing
 3. Cliquer sur **Run (▶)** pour lancer le jeu
