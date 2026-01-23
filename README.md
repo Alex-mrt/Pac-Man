@@ -21,5 +21,5 @@ Il a été développé dans un but **pédagogique**, afin de pratiquer la progra
 
 ## Comment lancer le projet
 1. Télécharger et installer **Processing 4** :  
-2. Ouvrir le fichier `.pde` avec Processing
+2. Ouvrir le fichier `.pyde` avec Processing
 3. Cliquer sur **Run** pour lancer le jeu
