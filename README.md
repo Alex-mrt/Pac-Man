@@ -1,7 +1,7 @@
 # Pac-Man
 
-Ce projet est une **implémentation du jeu Pac-Man** réalisée avec **Processing 4**.  
-Il a été développé dans un but **pédagogique**, afin de pratiquer la programmation .
+Ce projet est une **implémentation du jeu Pac-Man** réalisée avec **Processing 4** .  
+Il a été développé dans un but **pédagogique** en groupes, afin de pratiquer la programmation .
 
 
 
